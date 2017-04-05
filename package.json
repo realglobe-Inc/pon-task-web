@@ -25,11 +25,11 @@
   "dependencies": {
     "co": "^4.6.0",
     "pon-task-browser": "^1.0.2",
-    "pon-task-compile": "^1.0.3",
-    "pon-task-css": "^1.0.5",
+    "pon-task-compile": "^1.1.1",
+    "pon-task-css": "^1.0.6",
     "pon-task-map": "^1.0.1",
-    "pon-task-react": "^1.0.5",
-    "pon-task-watch": "^1.0.1"
+    "pon-task-react": "^1.0.6",
+    "pon-task-watch": "^1.0.2"
   },
   "devDependencies": {
     "ababel": "^2.0.1",
