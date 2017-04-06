@@ -126,10 +126,10 @@ Define task
 | Param | type | Description |
 | ---- | --- | ----------- |
 | options | Object |  Optional settings |
-| options.browser | Array |  Options for pon-task-browser |
-| options.react | Array |  Options for pon-task-react |
-| options.css | Array |  Options for pon-task-css |
-| options.map | Array |  Options for pon-task-map |
+| options.browser | Array |  Args for pon-task-browser |
+| options.react | Array |  Args for pon-task-react |
+| options.css | Array |  Args for pon-task-css |
+| options.map | Array |  Args for pon-task-map |
 
 
 
