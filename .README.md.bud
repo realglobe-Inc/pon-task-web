@@ -14,17 +14,13 @@ module.exports = readmeMdBud({
   repo: pkg.repository,
   sections: 'doc/guides/*.md.hbs',
   badges: {
-    // TODO OSS
-    // travis: true,
-    travisCom: true,
-    travisComToken: 'aeFzCpBZebyaRijpCFmm',
+    travis: true,
     npm: true,
     standard: true
   },
   overview: 'doc/overview.md',
   links: require('./doc/links'),
   vars: {
-    subs: Object.keys(require('./lib/define')),
     funcs: aglob.sync('lib/*.js')
       .filter((filename) => !/index\.js$/.test(filename))
       .map((filename) => {
