@@ -22,7 +22,9 @@ describe('define', function () {
 
   it('Define', () => co(function * () {
     let ctx = ponContext()
-    let task = define({})
+    let task = define({
+      browser: [ 'src.js', 'bundle.js' ]
+    })
     ok(task)
     ok(task.css)
     ok(task.react)
