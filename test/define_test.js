@@ -30,6 +30,7 @@ describe('define', function () {
     ok(task.react)
     ok(task.browser)
     ok(task.map)
+    ok(task.ccjs)
   }))
 })
 
