@@ -126,6 +126,7 @@ Define task
 | options.react | Array |  Args for pon-task-react |
 | options.css | Array |  Args for pon-task-css |
 | options.map | Array |  Args for pon-task-map |
+| options.ccjs | Array |  Args for pon-task-ccjs |
 
 
 
