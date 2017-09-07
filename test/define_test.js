@@ -6,24 +6,23 @@
 
 const define = require('../lib/define.js')
 const ponContext = require('pon-context')
-const { ok } = require('assert')
-const co = require('co')
+const {ok} = require('assert')
 
 describe('define', function () {
   this.timeout(3000)
 
-  before(() => co(function * () {
+  before(async () => {
 
-  }))
+  })
 
-  after(() => co(function * () {
+  after(async () => {
 
-  }))
+  })
 
-  it('Define', () => co(function * () {
+  it('Define', async () => {
     let ctx = ponContext()
     let task = define({
-      browser: [ 'src.js', 'bundle.js' ]
+      browser: ['src.js', 'bundle.js']
     })
     ok(task)
     ok(task.css)
@@ -31,7 +30,7 @@ describe('define', function () {
     ok(task.browser)
     ok(task.map)
     ok(task.ccjs)
-  }))
+  })
 })
 
 /* global describe, before, after, it */
