@@ -25,11 +25,6 @@ describe('define', function () {
       browser: ['src.js', 'bundle.js']
     })
     ok(task)
-    ok(task.css)
-    ok(task.react)
-    ok(task.browser)
-    ok(task.map)
-    ok(task.ccjs)
   })
 })
 
