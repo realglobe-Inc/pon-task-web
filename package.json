@@ -1,6 +1,6 @@
 {
   "name": "pon-task-web",
-  "version": "7.2.8",
+  "version": "7.2.9",
   "description": "Task set for web",
   "main": "lib",
   "browser": "shim/browser",
