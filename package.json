@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/realglobe-Inc/pon-task-web#readme",
   "dependencies": {
-    "pon-task-browser": "^6.0.3",
+    "pon-task-browser": "^6.0.4",
     "pon-task-ccjs": "^1.4.2",
     "pon-task-compile": "^4.0.0",
     "pon-task-css": "^7.0.1",
@@ -39,7 +39,7 @@
     "ape-formatting": "^1.0.2",
     "ape-releasing": "^4.0.4",
     "ape-tasking": "^4.0.9",
-    "ape-tmpl": "^6.0.10",
+    "ape-tmpl": "^6.0.11",
     "ape-updating": "^5.0.1",
     "coz": "^7.0.2",
     "injectmock": "^2.0.0",
