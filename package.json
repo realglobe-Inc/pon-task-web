@@ -1,6 +1,6 @@
 {
   "name": "pon-task-web",
-  "version": "8.2.2",
+  "version": "8.2.3",
   "description": "Task set for web",
   "main": "lib",
   "browser": "shim/browser",
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/realglobe-Inc/pon-task-web#readme",
   "dependencies": {
-    "pon-task-browser": "^6.0.6",
+    "pon-task-browser": "^6.0.9",
     "pon-task-ccjs": "^1.4.2",
     "pon-task-compile": "^4.0.0",
     "pon-task-css": "^7.0.1",
