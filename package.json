@@ -28,12 +28,12 @@
     "pon-task-compile": "^4.0.0",
     "pon-task-css": "^7.0.2",
     "pon-task-map": "^2.1.1",
-    "pon-task-react": "^5.0.3",
+    "pon-task-react": "^5.0.4",
     "pon-task-watch": "^2.3.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.0.0-rc.2",
-    "ababel": "^5.0.4",
+    "@babel/core": "^7.0.0",
+    "ababel": "^5.0.6",
     "amocha": "^5.0.0",
     "ape-doc": "^2.0.4",
     "ape-formatting": "^1.0.2",
