@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/realglobe-Inc/pon-task-web#readme",
   "dependencies": {
-    "pon-task-browser": "^7.1.5",
+    "pon-task-browser": "^7.1.6",
     "pon-task-ccjs": "^1.5.3",
     "pon-task-compile": "^4.0.0",
     "pon-task-css": "^8.0.4",
