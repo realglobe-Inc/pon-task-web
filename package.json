@@ -23,17 +23,17 @@
   },
   "homepage": "https://github.com/realglobe-Inc/pon-task-web#readme",
   "dependencies": {
-    "pon-task-browser": "^7.2.18",
-    "pon-task-ccjs": "^1.5.3",
+    "pon-task-browser": "^7.3.1",
+    "pon-task-ccjs": "^1.5.4",
     "pon-task-compile": "^4.0.5",
     "pon-task-css": "^8.0.11",
     "pon-task-map": "^2.1.4",
-    "pon-task-react": "^5.1.9",
+    "pon-task-react": "^5.1.11",
     "pon-task-watch": "^2.3.0"
   },
   "devDependencies": {
-    "@babel/runtime": "^7.4.5",
-    "ababel": "^6.0.0",
+    "@babel/runtime": "*",
+    "ababel": "^6.0.3",
     "amocha": "^6.0.0",
     "ape-doc": "^2.0.4",
     "ape-formatting": "^2.0.2",
