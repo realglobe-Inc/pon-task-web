@@ -32,7 +32,7 @@
     "pon-task-watch": "^2.3.0"
   },
   "devDependencies": {
-    "@babel/runtime": "^7.5.5",
+    "@babel/runtime": "*",
     "ababel": "^6.0.3",
     "amocha": "^6.0.0",
     "ape-doc": "^2.0.4",
