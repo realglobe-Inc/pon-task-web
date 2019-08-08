@@ -1,6 +1,6 @@
 {
   "name": "pon-task-web",
-  "version": "9.1.15",
+  "version": "9.1.16",
   "description": "Task set for web",
   "main": "lib",
   "browser": "shim/browser",
@@ -32,7 +32,7 @@
     "pon-task-watch": "^2.3.0"
   },
   "devDependencies": {
-    "@babel/runtime": "*",
+    "@babel/runtime": "^7.5.5",
     "ababel": "^6.0.3",
     "amocha": "^6.0.0",
     "ape-doc": "^2.0.4",
