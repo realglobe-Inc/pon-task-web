@@ -1,6 +1,6 @@
 {
   "name": "pon-task-web",
-  "version": "9.2.0",
+  "version": "9.2.1",
   "description": "Task set for web",
   "main": "lib",
   "browser": "shim/browser",
@@ -28,7 +28,7 @@
     "pon-task-compile": "^4.0.5",
     "pon-task-css": "^8.0.12",
     "pon-task-map": "^2.1.4",
-    "pon-task-react": "^5.3.0",
+    "pon-task-react": "^5.3.2",
     "pon-task-watch": "^2.3.0"
   },
   "devDependencies": {
