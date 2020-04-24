@@ -26,7 +26,7 @@
     "pon-task-browser": "^7.4.0",
     "pon-task-ccjs": "^1.7.2",
     "pon-task-compile": "^5.0.0",
-    "pon-task-css": "^8.2.0",
+    "pon-task-css": "^8.2.1",
     "pon-task-map": "^3.0.0",
     "pon-task-react": "^6.0.0",
     "pon-task-watch": "^4.0.0"
