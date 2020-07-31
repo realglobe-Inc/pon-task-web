@@ -1,6 +1,6 @@
 {
   "name": "pon-task-web",
-  "version": "10.2.7",
+  "version": "10.2.8",
   "description": "Task set for web",
   "main": "lib",
   "browser": "shim/browser",
@@ -23,18 +23,18 @@
   },
   "homepage": "https://github.com/realglobe-Inc/pon-task-web#readme",
   "dependencies": {
-    "pon-task-browser": "^7.6.2",
-    "pon-task-ccjs": "^1.8.1",
+    "pon-task-browser": "^7.7.0",
+    "pon-task-ccjs": "^1.8.2",
     "pon-task-compile": "^5.0.0",
-    "pon-task-css": "^8.2.5",
+    "pon-task-css": "^8.2.6",
     "pon-task-map": "^3.0.1",
     "pon-task-react": "^6.1.0",
     "pon-task-watch": "^4.0.1"
   },
   "devDependencies": {
-    "@babel/runtime": "^7.10.0",
+    "@babel/runtime": "^7.11.0",
     "ababel": "^6.1.4",
-    "amocha": "^7.0.2",
+    "amocha": "^7.1.0",
     "ape-doc": "^2.0.4",
     "ape-formatting": "^2.0.2",
     "ape-releasing": "^5.0.7",
